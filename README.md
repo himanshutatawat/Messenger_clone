@@ -7,19 +7,19 @@ A fully responsive, real-time chat application showcasing full-stack web develop
 </p>
 
 <p align="center"> 
-    <img src="public/images/Screenshot (85).png" alt="App Preview">      public/images
+    <img src="public/images/Screenshot (85).png" alt="App Preview">      
 </p>
 <p align="center"> 
-    <img src="public/images/Screenshot (88).png" alt="App Preview">      public/images
+    <img src="public/images/Screenshot (88).png" alt="App Preview">      
 </p>
 
 <p align="center"> 
-    <img src="public/images/Screenshot (89).png" alt="App Preview">      public/images
+    <img src="public/images/Screenshot (89).png" alt="App Preview">      
 </p>
 
 # App Theme changed to white
 <p align="center"> 
-    <img src="public/images/Screenshot (90).png" alt="App Preview">      public/images
+    <img src="public/images/Screenshot (90).png" alt="App Preview">      
 </p>
 # Table of Contents
 
@@ -50,9 +50,7 @@ A fully responsive, real-time chat application showcasing full-stack web develop
 - **Dynamic Themes**: Switch between light and dark modes.
 - **Responsive Design**: Optimized for both desktop and mobile devices.
 
-<p align="center"> 
-    <img src="public/images/guides/messenger-chat.gif" alt="Chat Preview">
-</p>
+
 
 ## Technologies Used
 
