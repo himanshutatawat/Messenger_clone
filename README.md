@@ -17,11 +17,11 @@ A fully responsive, real-time chat application showcasing full-stack web develop
     <img src="public/images/Screenshot (89).png" alt="App Preview">      public/images
 </p>
 
-##App Theme changed to white
+# App Theme changed to white
 <p align="center"> 
     <img src="public/images/Screenshot (90).png" alt="App Preview">      public/images
 </p>
-## Table of Contents
+# Table of Contents
 
 - [Live Demo](#live-demo)
 - [Features](#features)
