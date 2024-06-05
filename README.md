@@ -76,7 +76,7 @@ Ensure you have the following installed:
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/Tasin5541/NextJs-Messenger-Clone.git
+    git clone https://github.com/himanshutatawat/Messenger_clone.git
     cd NextJs-Messenger-Clone
     ```
 
